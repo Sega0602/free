@@ -18,3 +18,10 @@ void printTable(int leftR, int rightR, int ball) {
      
     }
 
+    let Start()
+    {
+        printf();
+        return 0;
+        
+    }
+
