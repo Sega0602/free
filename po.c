@@ -17,5 +17,7 @@ void printTable(int leftR, int rightR, int ball) {
          printf("\n");
      
       sergey test
+
+      init van 
     }
 
