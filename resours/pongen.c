@@ -17,11 +17,10 @@ void printTable(int leftR, int rightR, int ball) {
          printf("\n");
      
     }
-
     let Start()
-    {
+    {;
         printf();
         return 0;
-        
+
     }
 
