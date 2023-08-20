@@ -1,0 +1,2 @@
+index __STRICT_ANSI__
+sllals
